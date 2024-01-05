@@ -1,4 +1,4 @@
-# ¡Bienvenid@! Mi nombre es Fran Marca 👋
+# ¡Bienvenid@! Soy Fran Marca 👋
 ### Junior Software Developer - ¿Quién soy? 👀
 
 Nativo de Barcelona (España), nací en el año 1992.
