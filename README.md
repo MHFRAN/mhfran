@@ -1,5 +1,5 @@
-# ¡Bienvenid@! Mi nombre es Fran Marca 👋 ¿Quieres saber quién soy? ⬇️
-### Junior Software Developer
+# ¡Bienvenid@! Mi nombre es Fran Marca 👋
+### Junior Software Developer -- ¿Quién soy? 👀
 
 Actualmente estoy cursando ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Durante años, he dedicado mi trayectoria profesional al ámbito de Recursos Humanos. Experiencia que, sin lugar a dudas, ha representado una oportunidad invaluable para adquirir profundos conocimientos en el trato interpersonal y la colaboración eficiente en equipo. No obstante, desde hace años que siento una profunda pasión por encauzar mi carrera hacia el ámbito de la programación.
 
