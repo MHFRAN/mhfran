@@ -1,7 +1,7 @@
 # ¡Bienvenid@! Soy Fran Marca 👋
 ### Junior Software Developer - ¿Quién soy? 👀
 
-Nativo de Barcelona (España), nací en el año 1992.
+De Barcelona (España), nací en el año 1992.
 
 Durante años, he dedicado mi trayectoria profesional al ámbito de Recursos Humanos. Experiencia que, sin lugar a dudas, ha representado una oportunidad invaluable para adquirir profundos conocimientos en el trato interpersonal y la colaboración eficiente en equipo. 
 
