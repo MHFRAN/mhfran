@@ -1,5 +1,8 @@
 # ¡Bienvenid@! Soy Fran Marca 👋
-### Junior Software Developer - ¿Quién soy? 👀
+
+# 👀 About Me:
+
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y estoy sumergido en este apasionante mundo de la programación.
 
 De Barcelona (España), nací en el año 1992.
 
