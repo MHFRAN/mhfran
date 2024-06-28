@@ -11,8 +11,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), apasi
 ## 📚 DATABASES
 
 # 📊 GITHUB STATS
-[![Fran Marca GitHub stats](https://github-readme-stats.vercel.app/api?username=mhfran)](https://github.com/mhfran/github-readme-stats)<br/>
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=mhfran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <!--
 **MHFRAN/mhfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
