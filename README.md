@@ -2,13 +2,18 @@
 
 # 👀 About Me:
 
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y estoy sumergido en este apasionante mundo de la programación.
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), apasionado por la programación y sumergido en el aprendizaje constante. <br>
 
-De Barcelona (España), nací en el año 1992.
+## ⌨️ LANGUAGES
 
-Durante años, he dedicado mi trayectoria profesional al ámbito de Recursos Humanos. Experiencia que, sin lugar a dudas, ha representado una oportunidad invaluable para adquirir profundos conocimientos en el trato interpersonal y la colaboración eficiente en equipo. 
+## 🎨 FRAMEWORKS & PLATFORM
 
-No obstante, desde hace años que siento una profunda pasión por encauzar mi carrera hacia el ámbito de la programación. Por ello, actualmente estoy cursando el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
+## 📚 DATABASES
+
+# 📊 GITHUB STATS
+[![Fran Marca GitHub stats](https://github-readme-stats.vercel.app/api?username=mhfran)](https://github.com/mhfran/github-readme-stats)<br/>
+<br/>
+
 <!--
 **MHFRAN/mhfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
