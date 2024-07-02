@@ -1,6 +1,6 @@
 ## 👀 About Me:
 
-¡Bienvenido@! Soy Fran Marca 👋, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Apasionado por la programación y sumergido en un aprendizaje constante. <br>
+Welcome! I am Fran Marca 👋, a Higher Technician in Multi-platform Application Development. Passionate about programming and immersed in constant learning. <br>
 
 ## ⌨️ Languages & Tools
 
